@@ -1,5 +1,3 @@
--
-
 # Fine-Tune LLM Model for Tweet Sentiment Extraction
 
 This project fine-tunes a language model (LLM) using Hugging Face’s Transformers library for tweet sentiment extraction. It processes the "mteb/tweet_sentiment_extraction" dataset, tokenizes the text, and fine-tunes a GPT-2 model.
@@ -98,6 +96,8 @@ Evaluate the model on the test set using performance metrics such as:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+
+By Emmanuel K
 
 ## 🙌 Acknowledgments
 
